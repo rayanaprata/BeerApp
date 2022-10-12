@@ -1,4 +1,4 @@
 # BeerApp
-React Native App.
+React Native App to Unyleya Mobile Development Specialization.
 
 ![Beer App](beerapp.png)
